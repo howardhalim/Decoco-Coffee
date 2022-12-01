@@ -4,9 +4,10 @@
 <body>
     <!-- Navbar Start -->
     <div class="container-fluid p-0 nav-bar">
-        <nav class="navbar navbar-expand-lg bg-none navbar-dark py-3">
-            <a href="/" class="navbar-brand px-lg-4 m-0">
-                <h1 class="m-0 display-4 text-uppercase text-white">DECOCO COFFEESHOP</h1>
+        <nav class="navbar navbar-expand-lg bg-none navbar-dark py-1">
+            <img class="rounded-circle" style="width:200px;height:200px" src=" assets/img/logo_decoco-removebg-preview-white.png" alt="">
+            <a href="/" class="navbar-brand px-1 m-0 ">
+                <h1 class="m-0 display-5 text-uppercase text-white">DECOCO COFFEESHOP</h1>
             </a>
             <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
